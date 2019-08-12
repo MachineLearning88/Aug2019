@@ -20,3 +20,4 @@ eliminate <- function(predictor, dataframe){
   as.data.frame(temp)
 }
 #this needs to be fixed!!
+#try to add some stuff
